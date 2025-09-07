@@ -1,0 +1,26 @@
+[
+  {
+    "task": "Learning html",
+    "done": false
+  },
+  {
+    "task": "Learning database",
+    "done": false
+  },
+  {
+    "task": "Learning css",
+    "done": false
+  },
+  {
+    "task": "Learning Python",
+    "done": false
+  },
+  {
+    "task": "Learning react",
+    "done": false
+  },
+  {
+    "task": "Learning AUTOMATIONS",
+    "done": false
+  }
+]
