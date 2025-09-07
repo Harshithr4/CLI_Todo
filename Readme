@@ -1,0 +1,19 @@
+Todo CLI App
+
+This is a simple command-line Todo application built with Node.js.
+
+## Features
+- Add tasks
+- List tasks
+- Mark tasks as done
+- Delete tasks
+
+## Usage
+\`\`\`bash
+node todo.js add \"Learn Node.js\"
+node todo.js list
+node todo.js done 1
+node todo.js delete 2
+\`\`\`
+
+Tasks are stored in a JSON file (tasks.json).
